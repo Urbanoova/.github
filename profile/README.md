@@ -24,7 +24,7 @@ The platform transforms 2D CAD blueprints into environmental insights, scenario 
 
 ## UI / Prototype
 
-[Figma UI & Prototype](https://www.figma.com/design/OyeSQaiVSOu3JRwVOmkACX/Urbonova-Project?node-id=1-2&t=3B7WqyEEKUTKavIC-1)
+[Figma Link](https://www.figma.com/design/OyeSQaiVSOu3JRwVOmkACX/Urbonova-Project?node-id=1-2&t=3B7WqyEEKUTKavIC-1)
 
 ## Vision
 
